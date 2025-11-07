@@ -296,6 +296,11 @@
     "cart_coupon_code": "رمز الكوبون",
     "cart_coupon_list": "قائمة القسيمة",
     "cart_coupon_add": "أضف عرض",
+    "cart_add_more": "أضف المزيد",
+    "cart_add_more_items": "أضف {price} أكثر",
+    "cart_free_shipping": "ًالشحن مجانا",
+    "cart_free_shipping_description": "🎉 تهانينا على تأهلك",
+    "cart_want_free_shipping": "هل تريد شحن مجاني؟",
     "_product_list_screen": "قائمة المنتجات",
     "product_list_products": "جميع المنتجات",
     "product_list_items": "{count} من العناصر",
